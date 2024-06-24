@@ -1,7 +1,7 @@
 export const projects = [
   {
     title: 'Weather App',
-    description: "Weather App: This project is a classic Tic Tac Toe game implemented using HTML, CSS, and JavaScript, featuring an interactive 3x3 grid where players take turns placing X or O symbols. The game provides a user-friendly interface with real-time feedback, ensuring an engaging and enjoyable experience for all players.",
+    description: "Weather App: This weather app, developed using React JS, OpenWeatherAPI, and CSS, delivers accurate real-time weather updates. It features a sleek, user-friendly interface designed for a seamless user experience, making it easy for users to stay informed about current weather conditions.",
       image: '/images/1.png',
       tags: ['HTML', 'CSS', 'React.JS'],
     source: 'https://github.com/10mayy/WeatherApp',
